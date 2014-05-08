@@ -3,7 +3,7 @@ yc-node-info
 
 ### path.basename(p,[ext])
 
-use second param to rm extname
+> use *second* param to rm extname
 
 ```js
 
