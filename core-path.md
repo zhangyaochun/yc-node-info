@@ -3,6 +3,8 @@ yc-node-info
 
 ### path.basename(p,[ext])
 
+use second param to rm extname
+
 ```js
 
 var path = require('path');
